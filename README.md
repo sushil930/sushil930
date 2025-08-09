@@ -1,84 +1,110 @@
-<!-- Profile Header -->
-<h1 align="center">Hey 👋, I'm Sushil Patel</h1>
-<h3 align="center">Frontend & Full Stack Developer | UI Enthusiast | Tech Explorer</h3>
+<!-- Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=36BCF7&width=900&lines=Hey!+I'm+Sushil+Patel+👋;Frontend+Developer+💻;Full-Stack+Creator+🚀;Lifelong+Learner+📚;Turning+Ideas+into+Interactive+UI+✨" alt="Typing SVG" />
+</p>
+
+<!-- Profile Views -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=sushil930&label=Profile%20views&color=0e75b6&style=flat" alt="sushil930" /> </p>
+
+---
+
+## 🧑‍💻 About Me
+Hi, I’m **Sushil Patel** — a passionate **Frontend Developer** and **Full Stack Developer** from **Chhattisgarh, India**.  
+I love designing smooth, minimal, and functional UIs, and building scalable backend systems.  
+
+💡 Always curious about **psychology**, **design thinking**, and **emerging tech**.  
+⚡ Fun fact: I drink coffee as if it’s a front-end framework — daily updates! ☕  
+
+---
+
+## 🛠️ Skills Map
+
+### **Frontend**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### **Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=4AF626&center=true&vCenter=true&width=600&lines=Crafting+smooth+UIs+with+pixel+perfection;Building+Full+Stack+Web+Apps;Always+Learning+New+Tech+%F0%9F%9A%80" alt="Typing animation" />
+  <a href="https://github.com/sushil930/dear-reader">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sushil930&repo=dear-reader&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/sushil930/canteen-flow">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sushil930&repo=canteen-flow&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sushil930/AI-Career-Forge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sushil930&repo=AI-Career-Forge&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/sushil930/Sushil.dev">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sushil930&repo=Sushil.dev&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/sushil930/comic-portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sushil930&repo=comic-portfolio&theme=tokyonight" />
+  </a>
 </p>
 
 ---
 
-### 🚀 About Me
-- 💻 Passionate about **Frontend Development** with strong UI/UX skills  
-- 🔗 Also skilled in **Full Stack Development** (React, Django, Prisma, Express, PostgreSQL)  
-- 🛠 Building projects that mix **design elegance + functionality**  
-- 📍 Based in **Chhattisgarh, India**  
-- 📚 Currently exploring **AI integrations in web apps**  
-- 🎯 Goal: Crafting products that **people love to use**  
-
----
-
-## 🛠 Tech Stack
-
-### **Currently working with**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
-![TailwindCSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=fff)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=fff)
-
-### **Also worked with**
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=fff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=fff)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=fff)
-
----
-
-## 📌 Featured Projects  
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **Dear Reader** 📚 | Multilingual full-stack blog with Prisma, PostgreSQL & React | React, Express, Prisma, PostgreSQL, JWT | [🔗 View Repo](https://github.com/sushil930/dear-reader) |
-| **Canteen Flow** 🍔 | Smart campus food ordering system | React, Django, PostgreSQL | [🔗 View Repo](https://github.com/sushil930/canteen-flow) |
-| **AI Career Forge** 🤖 | AI-powered career guidance platform | React, Firebase, Gemini API | [🔗 View Repo](https://github.com/sushil930/AI-Career-Forge) |
-| **Sushil.dev** 🌐 | My personal portfolio website | React, TailwindCSS, Vite | [🔗 View Repo](https://github.com/sushil930/Sushil.dev) |
-| **Comic Portfolio** 🎨 | Creative portfolio with a comic-book style | React, TailwindCSS | [🔗 View Repo](https://github.com/sushil930/comic-portfolio) |
-
----
-
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sushil930&show_icons=true&theme=tokyonight&hide_border=true" height="180em" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushil930&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sushil930&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushil930&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sushil930&theme=tokyonight" alt="GitHub streak" />
 </p>
 
 ---
 
-## 🌱 Currently Learning
-- **Advanced TypeScript Patterns**
-- **Next.js 15**
-- **AI-driven UI personalization**
-
----
-
-## 🎯 Fun Zone
-- 🎵 Music fuels my coding sessions  
-- 📷 Love creating visually appealing UI designs  
-- ☕ A day without coffee = 404 Productivity Not Found  
-
----
-
+## 🌱 Contribution Map
 <p align="center">
-  <a href="https://sushil.dev"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sushil-patel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://ghchart.rshah.org/36BCF7/sushil930" alt="Sushil's GitHub Contribution Chart" />
 </p>
 
 ---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sushil930&theme=react-dark&hide_border=true&bg_color=0D1117" />
+</p>
+
+---
+
+## ✨ Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+</p>
+
+---
+
+### 🔗 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/sushil-patel-frontend"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sushil.patel@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
