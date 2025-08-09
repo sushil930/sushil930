@@ -39,6 +39,30 @@
 
 ---
 
+### 📊 My Developer Skill Map
+![Skill Radar](https://quickchart.io/chart?c={
+  type:'radar',
+  data:{
+    labels:['Frontend','Backend','Database','UI/UX','Projects Completed'],
+    datasets:[{
+      label:'Skill Level',
+      data:[95,80,78,92,85],
+      fill:true,
+      backgroundColor:'rgba(63,94,251,0.2)',
+      borderColor:'rgb(63,94,251)',
+      pointBackgroundColor:'rgb(63,94,251)'
+    }]
+  },
+  options:{
+    scale:{
+      ticks:{beginAtZero:true,max:100},
+      pointLabels:{font:{size:14}}
+    }
+  }
+})
+
+---
+
 ## 🌏 Skills Map
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sushil930&layout=compact&theme=radical" />
