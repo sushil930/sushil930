@@ -40,26 +40,7 @@
 ---
 
 ### 📊 My Developer Skill Map
-![Skill Radar](https://quickchart.io/chart?c={
-  type:'radar',
-  data:{
-    labels:['Frontend','Backend','Database','UI/UX','Projects Completed'],
-    datasets:[{
-      label:'Skill Level',
-      data:[95,80,78,92,85],
-      fill:true,
-      backgroundColor:'rgba(63,94,251,0.2)',
-      borderColor:'rgb(63,94,251)',
-      pointBackgroundColor:'rgb(63,94,251)'
-    }]
-  },
-  options:{
-    scale:{
-      ticks:{beginAtZero:true,max:100},
-      pointLabels:{font:{size:14}}
-    }
-  }
-})
+![Skill Radar](https://quickchart.io/chart?c=%7B%0A%20%20type%3A%27radar%27%2C%0A%20%20data%3A%7B%0A%20%20%20%20labels%3A%5B%27Frontend%27%2C%27Backend%27%2C%27Database%27%2C%27UI%2FUX%27%2C%27Projects%20Completed%27%5D%2C%0A%20%20%20%20datasets%3A%5B%7B%0A%20%20%20%20%20%20label%3A%27Skill%20Level%27%2C%0A%20%20%20%20%20%20data%3A%5B95%2C80%2C78%2C92%2C85%5D%2C%0A%20%20%20%20%20%20fill%3Atrue%2C%0A%20%20%20%20%20%20backgroundColor%3A%27rgba(63%2C94%2C251%2C0.2)%27%2C%0A%20%20%20%20%20%20borderColor%3A%27rgb(63%2C94%2C251)%27%2C%0A%20%20%20%20%20%20pointBackgroundColor%3A%27rgb(63%2C94%2C251)%27%0A%20%20%20%20%7D%5D%0A%20%20%7D%2C%0A%20%20options%3A%7B%0A%20%20%20%20scale%3A%7B%0A%20%20%20%20%20%20ticks%3A%7BbeginAtZero%3Atrue%2Cmax%3A100%7D%2C%0A%20%20%20%20%20%20pointLabels%3A%7Bfont%3A%7Bsize%3A14%7D%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D)
 
 ---
 
