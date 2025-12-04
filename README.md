@@ -5,18 +5,16 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Frontend+Developer;Full+Stack+Developer;UI%2FUX+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Frontend+Developer;Full+Stack+Developer;Creative+Coder" />
 </p>
 
  
-
 ## 🚀 About Me
 I'm a frontend‑focused developer with full‑stack experience in React/Next.js and Node.js.
 I care about building fast, accessible, and genuinely user‑centric products with clean, scalable code.
 Lately, I've been exploring AI integrations and design systems.
 
  
-
 ## 🛠 Skills & Tools
 
 **Frontend:**  
@@ -44,21 +42,19 @@ Lately, I've been exploring AI integrations and design systems.
 ![Lovable](https://img.shields.io/badge/-Lovable-7C3AED?style=for-the-badge)
 
  
-
 ## 📊 Skills & Languages Radar
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
-      <img alt="Skill Radar" src="https://quickchart.io/chart?c=%7B%0A%20%20type%3A%27radar%27%2C%0A%20%20data%3A%7B%0A%20%20%20%20labels%3A%5B%27Frontend%27%2C%27Backend%27%2C%27Database%27%2C%27UI%2FUX%27%2C%27Projects%20Completed%27%5D%2C%0A%20%20%20%20datasets%3A%5B%7B%0A%20%20%20%20%20%20label%3A%27Current%27%2C%0A%20%20%20%20%20%20data%3A%5B7%2C3%2C4%2C5%2C5%5D%2C%0A%20%20%20%20%20%20fill%3Atrue%2C%0A%20%20%20%20%20%20backgroundColor%3A%27rgba(255%2C110%2C196%2C0.20)%27%2C%0A%20%20%20%20%20%20borderColor%3A%27rgba(255%2C110%2C196%2C1)%27%2C%0A%20%20%20%20%20%20pointBackgroundColor%3A%27rgba(255%2C110%2C196%2C1)%27%2C%0A%20%20%20%20%20%20pointBorderColor%3A%27%23fff%27%2C%0A%20%20%20%20%20%20pointHoverBackgroundColor%3A%27%23fff%27%2C%0A%20%20%20%20%20%20pointHoverBorderColor%3A%27rgba(255%2C110%2C196%2C1)%27%2C%0A%20%20%20%20%20%20borderWidth%3A2%0A%20%20%20%20%7D%2C%7B%0A%20%20%20%20%20%20label%3A%27Goal%27%2C%0A%20%20%20%20%20%20data%3A%5B9%2C6%2C7%2C8%2C8%5D%2C%0A%20%20%20%20%20%20fill%3Atrue%2C%0A%20%20%20%20%20%20backgroundColor%3A%27rgba(120%2C115%2C245%2C0.15)%27%2C%0A%20%20%20%20%20%20borderColor%3A%27rgba(120%2C115%2C245%2C1)%27%2C%0A%20%20%20%20%20%20pointBackgroundColor%3A%27rgba(120%2C115%2C245%2C1)%27%2C%0A%20%20%20%20%20%20pointBorderColor%3A%27%23fff%27%2C%0A%20%20%20%20%20%20pointHoverBackgroundColor%3A%27%23fff%27%2C%0A%20%20%20%20%20%20pointHoverBorderColor%3A%27rgba(120%2C115%2C245%2C1)%27%2C%0A%20%20%20%20%20%20borderDash%3A%5B6%2C6%5D%2C%0A%20%20%20%20%20%20borderWidth%3A2%0A%20%20%20%20%7D%5D%0A%20%20%7D%2C%0A%20%20options%3A%7B%0A%20%20%20%20responsive%3Atrue%2C%0A%20%20%20%20legend%3A%7Bposition%3A%27top%27%2Clabels%3A%7BfontColor%3A%27%23ffffff%27%7D%7D%2C%0A%20%20%20%20scale%3A%7B%0A%20%20%20%20%20%20ticks%3A%7BbeginAtZero%3Atrue%2Cmin%3A0%2Cmax%3A10%2CstepSize%3A2%2CshowLabelBackdrop%3Afalse%2CbackdropColor%3A%27rgba(0%2C0%2C0%2C0)%27%2CfontColor%3A%27%23cfd8dc%27%7D%2C%0A%20%20%20%20%20%20angleLines%3A%7Bcolor%3A%27rgba(255%2C255%2C255%2C0.2)%27%7D%2C%0A%20%20%20%20%20%20gridLines%3A%7Bcolor%3A%27rgba(255%2C255%2C255%2C0.2)%27%7D%2C%0A%20%20%20%20%20%20pointLabels%3A%7BfontSize%3A14%2CfontColor%3A%27%23e0e0e0%27%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20layout%3A%7Bpadding%3A20%7D%2C%0A%20%20%20%20elements%3A%7Bpoint%3A%7Bradius%3A4%7D%7D%0A%20%20%7D%0A%7D&backgroundColor=rgb(13%2C17%2C23)&width=500&height=360&devicePixelRatio=2" />
+      <img alt="Skill Radar" src="https://quickchart.io/chart?c=%7B%0A%20%20type%3A%27radar%27%2C%0A%20%20data%3A%7B%0A%20%20%20%20labels%3A%5B%27Frontend%27%2C%27Backend%27%2C%27Database%27%2C%27Design%27%2C%27AI%27%5D%2C%0A%20%20%20%20datasets%3A%5B%7B%0A%20%20%20%20%20%20label%3A%27Competency%27%2C%0A%20%20%20%20%20%20data%3A%5B90%2C75%2C70%2C85%2C65%5D%2C%0A%20%20%20%20%20%20backgroundColor%3A%27rgba%2888%2C%20166%2C%20255%2C%200.2%29%27%2C%0A%20%20%20%20%20%20borderColor%3A%27%2358A6FF%27%2C%0A%20%20%20%20%20%20pointBackgroundColor%3A%27%2358A6FF%27%0A%20%20%20%20%7D%5D%0A%20%20%7D%2C%0A%20%20options%3A%7B%0A%20%20%20%20legend%3A%7Bdisplay%3Afalse%7D%2C%0A%20%20%20%20scale%3A%7B%0A%20%20%20%20%20%20angleLines%3A%7Bcolor%3A%27%2330363d%27%7D%2C%0A%20%20%20%20%20%20gridLines%3A%7Bcolor%3A%27%2330363d%27%7D%2C%0A%20%20%20%20%20%20ticks%3A%7Bdisplay%3Afalse%2Cmax%3A100%2Cmin%3A0%7D%2C%0A%20%20%20%20%20%20pointLabels%3A%7BfontSize%3A14%2CfontColor%3A%27%23c9d1d9%27%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D" />
     </td>
     <td width="50%" align="center" valign="top">
-      <img alt="Languages Radar" src="https://quickchart.io/chart?c=%7B%0A%20%20type%3A%27radar%27%2C%0A%20%20data%3A%7B%0A%20%20%20%20labels%3A%5B%27JavaScript%27%2C%27TypeScript%27%2C%27Python%27%2C%27HTML%27%2C%27CSS%27%2C%27SQL%27%5D%2C%0A%20%20%20%20datasets%3A%5B%7B%0A%20%20%20%20%20%20label%3A%27Languages%27%2C%0A%20%20%20%20%20%20data%3A%5B8%2C5%2C5%2C7%2C7%2C4%5D%2C%0A%20%20%20%20%20%20fill%3Atrue%2C%0A%20%20%20%20%20%20backgroundColor%3A%27rgba(88%2C166%2C255%2C0.20)%27%2C%0A%20%20%20%20%20%20borderColor%3A%27rgba(88%2C166%2C255%2C1)%27%2C%0A%20%20%20%20%20%20pointBackgroundColor%3A%27rgba(88%2C166%2C255%2C1)%27%2C%0A%20%20%20%20%20%20pointBorderColor%3A%27%23fff%27%2C%0A%20%20%20%20%20%20pointHoverBackgroundColor%3A%27%23fff%27%2C%0A%20%20%20%20%20%20pointHoverBorderColor%3A%27rgba(88%2C166%2C255%2C1)%27%2C%0A%20%20%20%20%20%20borderWidth%3A2%0A%20%20%20%20%7D%5D%0A%20%20%7D%2C%0A%20%20options%3A%7B%0A%20%20%20%20responsive%3Atrue%2C%0A%20%20%20%20legend%3A%7Bposition%3A%27top%27%2Clabels%3A%7BfontColor%3A%27%23ffffff%27%7D%7D%2C%0A%20%20%20%20scale%3A%7B%0A%20%20%20%20%20%20ticks%3A%7BbeginAtZero%3Atrue%2Cmin%3A0%2Cmax%3A10%2CstepSize%3A2%2CshowLabelBackdrop%3Afalse%2CbackdropColor%3A%27rgba(0%2C0%2C0%2C0)%27%2CfontColor%3A%27%23cfd8dc%27%7D%2C%0A%20%20%20%20%20%20angleLines%3A%7Bcolor%3A%27rgba(255%2C255%2C255%2C0.2)%27%7D%2C%0A%20%20%20%20%20%20gridLines%3A%7Bcolor%3A%27rgba(255%2C255%2C255%2C0.2)%27%7D%2C%0A%20%20%20%20%20%20pointLabels%3A%7BfontSize%3A14%2CfontColor%3A%27%23e0e0e0%27%7D%0A%20%20%20%20%7D%2C%0A%20%20%20%20layout%3A%7Bpadding%3A20%7D%2C%0A%20%20%20%20elements%3A%7Bpoint%3A%7Bradius%3A4%7D%7D%0A%20%20%7D%0A%7D&backgroundColor=rgb(13%2C17%2C23)&width=500&height=360&devicePixelRatio=2" />
+      <img alt="Languages Radar" src="https://quickchart.io/chart?c=%7B%0A%20%20type%3A%27radar%27%2C%0A%20%20data%3A%7B%0A%20%20%20%20labels%3A%5B%27JavaScript%27%2C%27TypeScript%27%2C%27Python%27%2C%27SQL%27%2C%27HTML%2FCSS%27%5D%2C%0A%20%20%20%20datasets%3A%5B%7B%0A%20%20%20%20%20%20label%3A%27Proficiency%27%2C%0A%20%20%20%20%20%20data%3A%5B95%2C85%2C60%2C70%2C95%5D%2C%0A%20%20%20%20%20%20backgroundColor%3A%27rgba%28247%2C%20120%2C%20186%2C%200.2%29%27%2C%0A%20%20%20%20%20%20borderColor%3A%27%23f778ba%27%2C%0A%20%20%20%20%20%20pointBackgroundColor%3A%27%23f778ba%27%0A%20%20%20%20%7D%5D%0A%20%20%7D%2C%0A%20%20options%3A%7B%0A%20%20%20%20legend%3A%7Bdisplay%3Afalse%7D%2C%0A%20%20%20%20scale%3A%7B%0A%20%20%20%20%20%20angleLines%3A%7Bcolor%3A%27%2330363d%27%7D%2C%0A%20%20%20%20%20%20gridLines%3A%7Bcolor%3A%27%2330363d%27%7D%2C%0A%20%20%20%20%20%20ticks%3A%7Bdisplay%3Afalse%2Cmax%3A100%2Cmin%3A0%7D%2C%0A%20%20%20%20%20%20pointLabels%3A%7BfontSize%3A14%2CfontColor%3A%27%23c9d1d9%27%7D%0A%20%20%20%20%7D%0A%20%20%7D%0A%7D" />
     </td>
   </tr>
 </table>
 
  
-
 ## ⭐ Featured Projects
 
 <table>
@@ -156,7 +152,6 @@ Lately, I've been exploring AI integrations and design systems.
 </table>
 
  
-
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -165,10 +160,6 @@ Lately, I've been exploring AI integrations and design systems.
 </p>
 
  
-
-
-
-
 ## 👀 Visitor Counter
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sushil930&label=Visitors&color=161b22&style=for-the-badge" />
